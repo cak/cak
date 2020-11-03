@@ -36,8 +36,8 @@ impl fmt::Debug for AboutMe<'_> {
 ```
 
 
- ♥️ ![Rust](https://img.shields.io/badge/-Rust-grey?style=flat-square&logo=Rust) | ![Swift](https://img.shields.io/badge/-Swift-grey?style=flat-square&logo=Swift) | ![Kotlin](https://img.shields.io/badge/-Kotlin-grey?style=flat-square&logo=Kotlin)| ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=flat-square&logo=TypeScript)
+ ♥️ [![Rust](https://img.shields.io/badge/-Rust-grey?style=flat-square&logo=Rust)](https://www.rust-lang.org) | [![Swift](https://img.shields.io/badge/-Swift-grey?style=flat-square&logo=Swift)](https://swift.org) | [![Kotlin](https://img.shields.io/badge/-Kotlin-grey?style=flat-square&logo=Kotlin)](https://kotlinlang.org) | [![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=flat-square&logo=TypeScript)](https://www.typescriptlang.org)
 
-📇 ![Twitter Follow](https://img.shields.io/twitter/follow/cak?color=purple&label=Twitter%20%40OptionalValue&style=flat-square&link=https://www.twitter.com/optionalvalue/) | ![GitHub followers](https://img.shields.io/github/followers/cak?color=purple&label=Follow%20GitHub&logoColor=blue&style=flat-square&link=https://www.github.com/cak) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat-square&logo=Linkedin&color=grey&logoColor=blue&link=https://www.linkedin.com/in/calebk/)](https://www.linkedin.com/in/calebk/) 
+📇 [![derail.io](https://img.shields.io/badge/Website-derail.io-blue?color=purple&style=flat-square)](https://derail.io) | [![Twitter Follow](https://img.shields.io/twitter/follow/cak?color=purple&label=Twitter%20%40OptionalValue&style=flat-square)](https://www.twitter.com/optionalvalue/) | [![GitHub followers](https://img.shields.io/github/followers/cak?color=purple&label=Follow%20GitHub&logoColor=blue&style=flat-square)](https://www.github.com/cak) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat-square&logo=Linkedin&color=grey&logoColor=blue&link=https://www.linkedin.com/in/calebk/)](https://www.linkedin.com/in/calebk/) 
 
-👨‍💻 ![GitHub User's stars](https://img.shields.io/github/stars/cak?affiliations=OWNER,ORGANIZATION_MEMBER&color=purple&style=flat-square) 
+👨‍💻 [![GitHub User's stars](https://img.shields.io/github/stars/cak?affiliations=OWNER,ORGANIZATION_MEMBER&color=purple&style=flat-square)](https://www.github.com/cak) 
