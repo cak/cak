@@ -2,7 +2,8 @@
 $ cargo run
 
 👋 I'm Caleb.
-I am passionate about Application Security and enjoy coding in Rust, Swift, Kotlin and TypeScript.
+I am a Christian, father, hacker and runner.
+I am passionate about Application Security.
 You can find more information at derail.io.
 ```
 
@@ -13,7 +14,7 @@ fn main() {
     let cak = AboutMe {
         name: "Caleb",
         passion: "Application Security",
-        code: vec!["Rust", "Swift", "Kotlin", "TypeScript"],
+        roles: vec!["Christian", "father", "hacker", "runner"],
         website: "derail.io",
     };
 
@@ -23,13 +24,13 @@ fn main() {
 struct AboutMe<'a> {
     name: &'a str,
     passion: &'a str,
-    code: Vec<&'a str>,
+    roles: Vec<&'a str>,
     website: &'a str,
 }
 
 impl fmt::Debug for AboutMe<'_> {
     fn fmt(&self, fmt: &mut fmt::Formatter<'_>) -> fmt::Result {
-        let output = format!("👋 I'm {}.\nI am passionate about {} and enjoy coding in {} and {}.\nYou can find more information at {}.",self.name, self.passion, self.code[..3].join(", "), self.code[3], self.website);
+        let output = format!("👋 I'm {}.\nI am a {} and {}.\nI am passionate about {}.\nYou can find more information at {}.",self.name, self.roles[..3].join(", "), self.roles[3], self.passion, self.website);
         fmt.write_str(&output)
     }
 }
