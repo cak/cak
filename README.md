@@ -3,8 +3,10 @@
 application security + full stack development
 
 #### 🚀 Current Projects
-- [HackerTracker iOS](https://itunes.apple.com/us/app/hackertracker/id1021141595?mt=8) / [BeezleLabs/HackerTracker-iOS](https://github.com/BeezleLabs/HackerTracker-iOS)
-- [info.defcon.org](https://info.defcon.org) / [BeezleLabs/hackertracker-info](https://github.com/BeezleLabs/hackertracker-info)
+- Dad to a newborn 👶 and preschooler 👧
+- [Advent of Code in Kotlin](https://github.com/cak/advent-of-code-2022)
 
-You can find more information on my projects at [derail.io](https://derail.io).
-
+#### ✉️ Contact
+- [caleb@cak.dev](mailto:caleb@cak.dev)
+- [derail.io](https://derail.io)
+- [@OptionalValue](http://twitter.com/optionalvalue)
