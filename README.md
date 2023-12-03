@@ -5,5 +5,7 @@ vulnerability management, application security, and full stack development
 #### 🚀 Current Projects
 
 - Dad 👶👧
-- [hackertracker - iOS](https://github.com/BeezleLabs/hackertracker)
-- [info.defcon.org](https://github.com/BeezleLabs/hackertracker-info)
+- [Advent of Code](https://adventofcode.com) in [Kotlin](https://github.com/cak/advent-of-code-2023) 🎄🎅
+
+##### Contact Info
+caleb@cak.dev
