@@ -7,9 +7,13 @@ When I'm not immersed in work, I love spending time with my family, exploring ne
 ## 🚀 Current Projects
 
 - **Dad Duties 👶👧**: Proud father, managing the delightful chaos of parenthood.
-- **[vuln-data-science](https://github.com/cak/vuln-data-science)**: Applying data science techniques to vulnerability management and analysis.
+- **[vuln-data-science](https://github.com/typeerror/vuln-data-science)**: Applying data science techniques to vulnerability management and analysis.
 - **[hackertracker-info](https://github.com/junctor/hackertracker-info)**: Keeping you updated with the DEF CON 32 schedule and events at info.defcon.org.
-- **[secure.py](https://github.com/cak/secure)**: Enhancing security for Python web frameworks with secure headers.
+- **[secure.py](https://github.com/typeerror/secure)**: Enhancing security for Python web frameworks with secure headers.
+
+## 🌐 TypeError
+
+Explore various projects on vulnerability management and application security at [TypeError](https://github.com/TypeError). We use data science and coding to educate and enhance cybersecurity.
 
 ## 📫 Get in Touch
 
