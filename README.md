@@ -8,7 +8,7 @@ When I'm not immersed in work, I love spending time with my family, exploring ne
 
 - **Dad Duties 👶👧**: Proud father, managing the delightful chaos of parenthood.
 - **[vuln-data-science](https://github.com/typeerror/vuln-data-science)**: Applying data science techniques to vulnerability management and analysis.
-- **[hackertracker-info](https://github.com/junctor/hackertracker-info)**: Keeping you updated with the DEF CON 32 schedule and events at info.defcon.org.
+- **[hackertracker-web](https://github.com/junctor/hackertracker-web)**: Keeping you updated with the cybersecurity schedules and events at [hackertracker.app](https://hackertracker.app/).
 - **[secure.py](https://github.com/typeerror/secure)**: Enhancing security for Python web frameworks with secure headers.
 
 ## 🌐 TypeError
