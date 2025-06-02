@@ -1,30 +1,29 @@
 # 👋 Hi, I'm Caleb!
 
-**Empowering cybersecurity through data science and innovative solutions.**
+**Securing software through code, data, and community.**
 
-I'm a seasoned professional in vulnerability management and application security, passionate about blending data science with security research to uncover insights, prioritize risks, and enhance security practices.
+I work across teams to improve security at every level, from strategy and architecture to secure development and automation, helping make secure software easier to build and maintain.
 
-When I'm not immersed in work, I love spending time with my family, exploring new coffee flavors, long-distance running, and engaging with the cybersecurity community.
+Outside of work, I volunteer as a DEF CON Goon, serve on the NumFOCUS Security Committee, and contribute to open source projects that make life easier for developers and security folks alike.
 
 ## 🚀 Current Projects
 
-- **Dad Duties 👶👧**: Proud father, managing the delightful chaos of parenthood.
-- **[vuln-data-science](https://github.com/typeerror/vuln-data-science)**: Analyzing vulnerability trends with data science to prioritize and mitigate risks.
-- **[hackertracker-web](https://github.com/junctor/hackertracker-web)**: Keeping you updated with the latest cybersecurity schedules and events at [hackertracker.app](https://hackertracker.app/).
-- **[secure.py](https://github.com/typeerror/secure)**: A Python package for securing web applications by enforcing modern HTTP security headers.
-- **[elf (Exposure Likelihood Framework)](https://github.com/typeerror/elf)**: A modular library integrating vulnerability data sources (e.g., NVD, CISA KEV, EPSS) to streamline vulnerability management, prioritization, and decision-making.
+- **Dad Duties 👶👧** – Proud father, embracing the delightful chaos.  
+- **[junctor/hackertracker-info](https://github.com/junctor/hackertracker-info)** – Helping maintain the official DEF CON 33 schedule at [info.defcon.org](https://info.defcon.org).
 
 ## 🌐 TypeError
 
-Explore my work on vulnerability management and application security at [TypeError](https://github.com/TypeError), where I combine data science and programming to advance cybersecurity practices. The repositories focus on tools for secure web application development, analyzing vulnerability trends, and creating utilities to streamline cybersecurity workflows.
+[TypeError](https://github.com/TypeError) is my sandbox for tools at the intersection of software security and data science.
 
-Stay tuned for these and other innovative projects redefining how we approach vulnerability management and application security.
+## 👾 Snally.com (coming soon)
+
+A creative playground for data science experiments. Weird, fun, and data-rich.
 
 ## 📫 Get in Touch
 
-- **Email:** [caleb@typeerror.com](mailto:caleb@typeerror.com)
-- **LinkedIn:** [calebk](https://linkedin.com/in/calebk)
-- **Website:** [www.typeerror.com](https://www.typeerror.com)
+- **Email:** [caleb@typeerror.com](mailto:caleb@typeerror.com)  
+- **LinkedIn:** [linkedin.com/in/calebk](https://linkedin.com/in/calebk)  
+- **Site:** [typeerror.com](https://typeerror.com)
 
 ---
 
