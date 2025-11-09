@@ -1,30 +1,40 @@
-# 👋 Hi, I'm Caleb!
+# 👋 Hi, I'm Caleb
+
+(aka **cak** on GitHub / **derail** at DEF CON)
 
 **Securing software through code, data, and community.**
 
-I work across teams to improve security at every level, from strategy and architecture to secure development and automation, helping make secure software easier to build and maintain.
+I help teams build and maintain secure software by blending strategy, architecture, and automation. My focus is turning complex security data into clear metrics and defensible decisions.
 
-Outside of work, I volunteer as a DEF CON Goon, serve on the NumFOCUS Security Committee, and contribute to open source projects that make life easier for developers and security folks alike.
+I work at [Posit](https://posit.co/) (formerly RStudio), shaping security strategy that protects our employees and the open-source and commercial tools trusted by millions of data scientists.
 
-## 🚀 Current Projects
-
-- **Dad Duties 👶👧** – Proud father, embracing the delightful chaos.  
-- **[junctor/hackertracker-info](https://github.com/junctor/hackertracker-info)** – Helping maintain the official DEF CON 33 schedule at [info.defcon.org](https://info.defcon.org).
-
-## 🌐 TypeError
-
-[TypeError](https://github.com/TypeError) is my sandbox for tools at the intersection of software security and data science.
-
-## 👾 Snally.com (coming soon)
-
-A creative playground for data science experiments. Weird, fun, and data-rich.
-
-## 📫 Get in Touch
-
-- **Email:** [caleb@typeerror.com](mailto:caleb@typeerror.com)  
-- **LinkedIn:** [linkedin.com/in/calebk](https://linkedin.com/in/calebk)  
-- **Site:** [typeerror.com](https://typeerror.com)
+Outside of work, I maintain the web version of [HackerTracker](https://hackertracker.app/), volunteer as a DEF CON Goon, advise the [NumFOCUS Security Committee](https://numfocus.org/programs/security-committee), and build open-source tools that make life easier for developers and security practitioners alike.
 
 ---
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cak.cak&format=true)
+## 🧩 TypeError
+
+**[TypeError](https://github.com/TypeError)** is my home for open-source projects that make defense measurable, data-driven, and practical.  
+It’s where software security, vulnerability management, and data science intersect to help defenders turn raw data into meaningful action.
+
+---
+
+## 🐉 Snally.com
+
+**[Snally](https://github.com/snally-dev)** is a creative playground for development and data experiments.  
+It’s where the analytical meets the weird, exploring ideas that don’t quite fit anywhere else.
+
+---
+
+## 📫 Connect
+
+💌 **Email:** [caleb@typeerror.com](mailto:caleb@typeerror.com)  
+💼 **LinkedIn:** [linkedin.com/in/calebk](https://linkedin.com/in/calebk)  
+🌐 **Portfolio:** [derail.net](https://derail.net)  
+🧩 **TypeError:** [typeerror.com](https://typeerror.com)  
+🐉 **Snally:** [snally.com](https://snally.com)  
+🔗 **More Links:** [linktr.ee/typeerror](https://linktr.ee/typeerror)
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cak.cak&format=true)
