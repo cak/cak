@@ -14,15 +14,11 @@ I also maintain the web version of [HackerTracker](https://hackertracker.app/), 
 
 ---
 
-## TypeError
+## Projects
 
-**[TypeError](https://github.com/TypeError)** is where I build open-source tools that make defense measurable and practical. It is where security, vulnerability data, and automation come together to help defenders take action.
+**[TypeError](https://github.com/TypeError)** is where I build open-source tools that make defense measurable and practical, bringing security, vulnerability data, and automation together to help defenders take action.
 
----
-
-## Snally.com
-
-**[Snally](https://github.com/snally-dev)** is my creative playground for development and data experiments. It is where analytical meets weird and ideas find a home.
+**[Snally](https://github.com/snally-dev)** is my creative playground for development and data experiments, and a home for ideas that do not fit anywhere else.
 
 ---
 
@@ -34,7 +30,3 @@ I also maintain the web version of [HackerTracker](https://hackertracker.app/), 
 🧩 **TypeError:** [typeerror.com](https://typeerror.com)  
 🐉 **Snally:** [snally.com](https://snally.com)  
 🔗 **More Links:** [linktr.ee/typeerror](https://linktr.ee/typeerror)
-
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cak.cak&format=true)
