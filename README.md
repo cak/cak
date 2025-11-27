@@ -4,25 +4,25 @@
 
 **Securing software through code, data, and community.**
 
-I help teams build and maintain secure software by blending strategy, architecture, and automation. My focus is turning complex security data into clear metrics and defensible decisions.
+I help teams ship secure software by aligning strategy, architecture, and automation through clear metrics and sound decisions.
 
-I work at [Posit](https://posit.co/) (formerly RStudio), shaping security strategy that protects our employees and the open-source and commercial tools trusted by millions of data scientists.
+At [Posit](https://posit.co/), I shape security strategy for products trusted by millions of data scientists.
 
-Outside of work, I maintain the web version of [HackerTracker](https://hackertracker.app/), volunteer as a DEF CON Goon, advise the [NumFOCUS Security Committee](https://numfocus.org/programs/security-committee), and build open-source tools that make life easier for developers and security practitioners alike.
+I also maintain the web version of [HackerTracker](https://hackertracker.app/), volunteer as a DEF CON Goon, advise the [NumFOCUS Security Committee](https://numfocus.org/programs/security-committee), and build open-source tools for developers and defenders.
 
----
-
-## 🧩 TypeError
-
-**[TypeError](https://github.com/TypeError)** is my home for open-source projects that make defense measurable, data-driven, and practical.  
-It’s where software security, vulnerability management, and data science intersect to help defenders turn raw data into meaningful action.
+**All opinions are my own.**
 
 ---
 
-## 🐉 Snally.com
+## TypeError
 
-**[Snally](https://github.com/snally-dev)** is a creative playground for development and data experiments.  
-It’s where the analytical meets the weird, exploring ideas that don’t quite fit anywhere else.
+**[TypeError](https://github.com/TypeError)** is where I build open-source tools that make defense measurable and practical. It is where security, vulnerability data, and automation come together to help defenders take action.
+
+---
+
+## Snally.com
+
+**[Snally](https://github.com/snally-dev)** is my creative playground for development and data experiments. It is where analytical meets weird and ideas find a home.
 
 ---
 
